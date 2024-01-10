@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1326eb83b8acdd43a4496248b2219e9, type: 3}
+  m_Name: NewBowData
+  m_EditorClassIdentifier: 
+  m_weaponName: bow
+  m_weaponDescription: 
+  m_weaponIcon: {fileID: 0}
+  m_damageSettings:
+    m_minDamageValue: 1
+    m_maxDamageValue: 1
+    m_criticalMultiplier: 1
+    m_criticalChance:
+      m_chance: 50
